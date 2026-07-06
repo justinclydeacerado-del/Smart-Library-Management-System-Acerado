@@ -14,7 +14,6 @@ Course:BSIT BA
 Section: 2C
 
 
-Verify that the Project Modules section now includes:
 Member Management
 Book Catalog
 Borrowing
