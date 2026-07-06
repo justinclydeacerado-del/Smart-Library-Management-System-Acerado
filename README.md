@@ -14,12 +14,15 @@ Course:BSIT BA
 Section: 2C
 
 
-Project Modules
+Verify that the Project Modules section now includes:
+Member Management
+Book Catalog
+Borrowing
+Returning
+Inventory Management
+Reports
+User Accounts
 
-- Book Catalog
-- Inventory Management
-- Reports
-- User Accounts
 
 
 
