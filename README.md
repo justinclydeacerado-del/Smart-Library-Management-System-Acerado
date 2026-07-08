@@ -22,6 +22,5 @@ Inventory Management
 Reports
 User Accounts
 
-Added Book Reservation Module
 
 
